@@ -19,6 +19,33 @@ The API was developed for my [Youtube Tutorial](https://www.youtube.com/watch?v=
 - [Database](#database)
 - [Contributing](#contributing)
 
+## Passos para a realizacao do projecto Com Base No Tuturial
+
+1.  Intro
+2.  Entendendo o projeto
+3.  Adicionando o Spring Security
+4.  Entendendo Config Padrão do Spring Security
+5.  Entendendo O Spring Security No Nosso Projeto
+6.  Criando tabela no BD para os usuários autenticados
+7.  Criando entidade do usuário no projeto
+8.  Implementando classe do Spring Security
+9.  Criando a classe para as Roles do usuário
+10. Criando Repository para consultar os usuários
+11. Criando o Service de autenticação
+12. Desabilitando a config padrão do Spring Security
+13. Implementando o securityfilterchain
+14. Configuranda a nossa autenticação e autorização (authorizeHttpRequests)
+15. Validando autenticação do usuário (AuthenticationController)
+16. Permitindo o usuário criar uma conta
+17. Alterando as configurações de segurança
+18. Instalando biblioteca para usar o JWT
+19. Criando serviço para gerar Token JWT
+20. Criando serviço para validar Token JWT
+21. Alterando as configurações de segurança
+22. Retornando o token para o usuário
+23. Validando a autenticação e autorização
+
+
 ## Installation
 
 1. Clone the repository:
